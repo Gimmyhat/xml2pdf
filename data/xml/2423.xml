@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<supply xmlns="urn://efgi.ru/XSD/efgiSupply" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rep="urn://efgi.ru/XSD/efgiReport" xmlns:g="urn://efgi.ru/XSD/efgiGlobals" xmlns:wmd="urn://efgi.ru/XSD/efgiWorkMaterialDescription" xmlns:e="urn://efgi.ru/XSD/efgiExploration" xmlns:gkm="urn://efgi.ru/XSD/efgiGkmPassport">
+	<version>12</version>
+	<idSupply>2423</idSupply>
+	<description>тестл - назв уч  - Гидрогеологические исследования(Разведка и переоценка запасов подземных вод на месторождениях Береговой-1,Береговой-2 для хозяйственно-питьевого водоснабжения Новосибирского Научного центра СО РАН)</description>
+	<contactData>
+		<g:name>Сергей </g:name>
+		<g:patronymic>Глебович</g:patronymic>
+		<g:surname>Дворников</g:surname>
+		<g:position>зам.зав.отделом</g:position>
+		<g:email>vitaliy@example.com</g:email>
+		<g:phone>+79106099148</g:phone>
+		<g:orgName>АО "Полюс Алдан"</g:orgName>
+		<g:orgAddress>678940, Республика Саха /Якутия/, Алданский улус, поселок Нижний Куранах, ул. Строительная, 14</g:orgAddress>
+		<g:ogrn>1234567890123</g:ogrn>
+	</contactData>
+	<tfgiData>
+		<idTfgi>2</idTfgi>
+	</tfgiData>
+	<tfgiData>
+		<idTfgi>17</idTfgi>
+	</tfgiData>
+	<report>
+		<rep:customerOrgName>ГУП УЭВ СО РАН</rep:customerOrgName>
+		<rep:customerOgrn>1234567890123</rep:customerOgrn>
+		<rep:orgName>АО "Полюс Алдан"</rep:orgName>
+		<rep:byPowerOfAttorney>0</rep:byPowerOfAttorney>
+		<rep:authors>И И.И., Иванов П.Р.</rep:authors>
+		<rep:ginInfoList>
+			<g:ginInfo>
+				<g:idGinInfo>1245</g:idGinInfo>
+				<g:ngr>50-10-21</g:ngr>
+			</g:ginInfo>
+		</rep:ginInfoList>
+		<rep:licInfoList>
+			<g:licInfo>
+				<g:idLicInfo>1512</g:idLicInfo>
+				<g:fullNumber>НОВ01667ВЭ</g:fullNumber>
+				<g:dateReg>2005-12-08</g:dateReg>
+			</g:licInfo>
+			<g:licInfo>
+				<g:idLicInfo>1513</g:idLicInfo>
+				<g:fullNumber>НОВ01668ВЭ</g:fullNumber>
+				<g:dateReg>2005-12-12</g:dateReg>
+			</g:licInfo>
+		</rep:licInfoList>
+		<rep:stateAssignment>
+			<rep:idStateAssignment>589</rep:idStateAssignment>
+			<rep:number>049-00004-17-00</rep:number>
+			<rep:date>2023-01-05</rep:date>
+		</rep:stateAssignment>
+		<rep:stateContract>
+			<rep:idStateContract>795</rep:idStateContract>
+			<rep:number>12/5</rep:number>
+			<rep:date>2023-01-03</rep:date>
+		</rep:stateContract>
+		<rep:stateContract>
+			<rep:idStateContract>796</rep:idStateContract>
+			<rep:number>13</rep:number>
+			<rep:date>2023-01-10</rep:date>
+		</rep:stateContract>
+		<rep:expertise>
+			<rep:idExpertise>514</rep:idExpertise>
+			<rep:expertiseNumber>250-02-10/2017</rep:expertiseNumber>
+			<rep:expertiseDate>2017-10-30</rep:expertiseDate>
+		</rep:expertise>
+		<rep:workBeginYear>2027</rep:workBeginYear>
+		<rep:workBeginIdQuarter>1</rep:workBeginIdQuarter>
+		<rep:workEndYear>2028</rep:workEndYear>
+		<rep:workEndIdQuarter>4</rep:workEndIdQuarter>
+		<rep:year>1999</rep:year>
+		<rep:idReportType>1</rep:idReportType>
+		<rep:idSubsoilUseType>1</rep:idSubsoilUseType>
+		<rep:idSubsoilUseType>2</rep:idSubsoilUseType>
+		<rep:idSubsoilUseType>3</rep:idSubsoilUseType>
+		<rep:purpose>Целевое назначение - текст</rep:purpose>
+		<rep:idFinancingSource>3</rep:idFinancingSource>
+		<rep:cost>1468000</rep:cost>
+		<rep:abstract>вапва Поле должно содержать только ТЕКСТ реферата, БЕЗ библиографического описания отчёта, порядка представления отчёта в фонды, перечня ключевых слов содержания отчёта.</rep:abstract>
+		<rep:conclusions>вапавп Выводы и рекомендации - тескт</rep:conclusions>
+		<rep:idRegion>14000000000</rep:idRegion>
+		<rep:nomenclature>R-90, R-78</rep:nomenclature>
+		<rep:structure>
+			<rep:technicalSpecification>
+				<g:idFileIndex>173303</g:idFileIndex>
+				<g:fileName>пров хеша/nose</g:fileName>
+			</rep:technicalSpecification>
+			<rep:title>
+				<g:idFileIndex>173305</g:idFileIndex>
+				<g:fileName>пров хеша/00566.tif</g:fileName>
+			</rep:title>
+			<rep:abstract>
+				<g:idFileIndex>173306</g:idFileIndex>
+				<g:fileName>пров хеша/00566.tif</g:fileName>
+			</rep:abstract>
+			<rep:contents>
+				<g:idFileIndex>173307</g:idFileIndex>
+				<g:fileName>пров хеша/00566.tif</g:fileName>
+			</rep:contents>
+			<rep:reportText>
+				<rep:introduction>
+					<g:idFileIndex>173313</g:idFileIndex>
+					<g:fileName>пров хеша/00566.tif</g:fileName>
+				</rep:introduction>
+				<rep:mainPart>
+					<g:idFileIndex>173314</g:idFileIndex>
+					<g:fileName>пров хеша/00566.tif</g:fileName>
+				</rep:mainPart>
+				<rep:conclusion>
+					<g:idFileIndex>173315</g:idFileIndex>
+					<g:fileName>пров хеша/00566.tif</g:fileName>
+				</rep:conclusion>
+			</rep:reportText>
+			<rep:bibliography>
+				<g:idFileIndex>173316</g:idFileIndex>
+				<g:fileName>пров хеша/00566.tif</g:fileName>
+			</rep:bibliography>
+			<rep:protocol>
+				<g:idFileIndex>173304</g:idFileIndex>
+				<g:fileName>пров хеша/2128-1-2251-1,3528 - 3815(Є_Уваров)_123шт.docx</g:fileName>
+			</rep:protocol>
+			<rep:metrologicalExpertiseNotRequired>1</rep:metrologicalExpertiseNotRequired>
+			<rep:patentResearchNotRequired>1</rep:patentResearchNotRequired>
+			<rep:costStatementNotRequired>1</rep:costStatementNotRequired>
+			<rep:reviewsNotRequired>1</rep:reviewsNotRequired>
+		</rep:structure>
+		<rep:minerals>
+			<rep:mineral>
+				<rep:idReportMineral>id_rm1909</rep:idReportMineral>
+				<rep:idMineral>30302</rep:idMineral>
+				<rep:mineral>Вода техническая</rep:mineral>
+				<rep:hasReservesCalc>0</rep:hasReservesCalc>
+				<rep:hasResourcesCalc>0</rep:hasResourcesCalc>
+				<rep:hasReservesExpertise>0</rep:hasReservesExpertise>
+				<rep:hasResourcesApprobation>0</rep:hasResourcesApprobation>
+			</rep:mineral>
+			<rep:mineral>
+				<rep:idReportMineral>id_rm1910</rep:idReportMineral>
+				<rep:idMineral>1010502</rep:idMineral>
+				<rep:mineral>Платиноиды</rep:mineral>
+				<rep:hasReservesCalc>0</rep:hasReservesCalc>
+				<rep:hasResourcesCalc>0</rep:hasResourcesCalc>
+				<rep:hasReservesExpertise>0</rep:hasReservesExpertise>
+				<rep:hasResourcesApprobation>0</rep:hasResourcesApprobation>
+			</rep:mineral>
+			<rep:mineral>
+				<rep:idReportMineral>id_rm1911</rep:idReportMineral>
+				<rep:idMineral>4</rep:idMineral>
+				<rep:mineral>Полезное ископаемое (Другое)</rep:mineral>
+				<rep:hasReservesCalc>0</rep:hasReservesCalc>
+				<rep:hasResourcesCalc>0</rep:hasResourcesCalc>
+				<rep:hasReservesExpertise>0</rep:hasReservesExpertise>
+				<rep:hasResourcesApprobation>0</rep:hasResourcesApprobation>
+			</rep:mineral>
+			<rep:mineral>
+				<rep:idReportMineral>id_rm1912</rep:idReportMineral>
+				<rep:idMineral>30306</rep:idMineral>
+				<rep:mineral>Грязь лечебная</rep:mineral>
+				<rep:hasReservesCalc>0</rep:hasReservesCalc>
+				<rep:hasResourcesCalc>0</rep:hasResourcesCalc>
+				<rep:hasReservesExpertise>0</rep:hasReservesExpertise>
+				<rep:hasResourcesApprobation>0</rep:hasResourcesApprobation>
+			</rep:mineral>
+		</rep:minerals>
+		<rep:geolSamples>
+			<rep:geolSample>
+				<rep:idGeolSample>318</rep:idGeolSample>
+				<rep:storageNameAddress>Наименование, адрес хранилища  (образец геол. пород, керна)</rep:storageNameAddress>
+				<rep:sampleIds>23,90</rep:sampleIds>
+			</rep:geolSample>
+		</rep:geolSamples>
+		<rep:workSquareTotal>2</rep:workSquareTotal>
+		<rep:workSite>
+			<g:idSpatialObject>4910</g:idSpatialObject>
+			<g:caption>участок месторождения Береговой-2(проект.скв.1,2,3,4,5,6,7,14) - скв.1,2,3,4,5,6,7</g:caption>
+			<g:idGeomType>4</g:idGeomType>
+			<g:srid>4284</g:srid>
+			<g:parts>
+				<g:part>
+					<g:coord>
+						<g:lon>83.05</g:lon>
+						<g:lat>54.8333</g:lat>
+					</g:coord>
+				</g:part>
+			</g:parts>
+			<wmd:idWorkSite>3361</wmd:idWorkSite>
+			<wmd:workMethodInfo>
+				<wmd:idWorkMethodInfo>id1497</wmd:idWorkMethodInfo>
+				<wmd:idSubsoilUseType>3</wmd:idSubsoilUseType>
+				<wmd:idMethod>1190</wmd:idMethod>
+				<wmd:methodology>мет</wmd:methodology>
+				<wmd:idScale>15</wmd:idScale>
+				<wmd:technicalMeans>
+					<wmd:idTechnicalMeans>847</wmd:idTechnicalMeans>
+					<wmd:title>ср1</wmd:title>
+					<wmd:controlMeans>
+						<wmd:idControlMeans>20602</wmd:idControlMeans>
+						<wmd:path>Архив/EfgiIndexer.exe</wmd:path>
+					</wmd:controlMeans>
+					<wmd:controlMeans>
+						<wmd:idControlMeans>20603</wmd:idControlMeans>
+						<wmd:path>пров хеша/2128-1-2251-1,3528 - 3815(Є_Уваров)_123шт.docx</wmd:path>
+					</wmd:controlMeans>
+				</wmd:technicalMeans>
+				<wmd:workVolume>
+					<wmd:idWorkVolume>1591</wmd:idWorkVolume>
+					<wmd:volume>89</wmd:volume>
+					<wmd:idUnit>18</wmd:idUnit>
+				</wmd:workVolume>
+				<wmd:material>
+					<wmd:idMaterial>2494</wmd:idMaterial>
+					<wmd:title>назв - Результаты лабораторных исследований или описаний</wmd:title>
+					<wmd:format>pdf, (.doc)</wmd:format>
+					<wmd:idMaterialType>1</wmd:idMaterialType>
+					<wmd:comments>Примечание - текст</wmd:comments>
+					<wmd:materialFile>
+						<wmd:idMaterialFile>63733</wmd:idMaterialFile>
+						<wmd:path>пров хеша/00566.tif</wmd:path>
+					</wmd:materialFile>
+					<wmd:materialFile>
+						<wmd:idMaterialFile>63734</wmd:idMaterialFile>
+						<wmd:path>пров хеша/2128-1-2251-1,3528 - 3815(Є_Уваров)_123шт.docx</wmd:path>
+					</wmd:materialFile>
+					<wmd:idDocType>404</wmd:idDocType>
+				</wmd:material>
+			</wmd:workMethodInfo>
+			<wmd:workMethodInfo>
+				<wmd:idWorkMethodInfo>id1498</wmd:idWorkMethodInfo>
+				<wmd:idSubsoilUseType>1</wmd:idSubsoilUseType>
+				<wmd:idMethod>1166</wmd:idMethod>
+				<wmd:methodology>и м сим</wmd:methodology>
+				<wmd:idScale>1</wmd:idScale>
+				<wmd:technicalMeans>
+					<wmd:idTechnicalMeans>848</wmd:idTechnicalMeans>
+					<wmd:title>ср1</wmd:title>
+				</wmd:technicalMeans>
+				<wmd:technicalMeans>
+					<wmd:idTechnicalMeans>849</wmd:idTechnicalMeans>
+					<wmd:title>ср2</wmd:title>
+					<wmd:controlMeans>
+						<wmd:idControlMeans>20604</wmd:idControlMeans>
+						<wmd:path>пров хеша/00566.tif</wmd:path>
+					</wmd:controlMeans>
+				</wmd:technicalMeans>
+				<wmd:workVolume>
+					<wmd:idWorkVolume>1592</wmd:idWorkVolume>
+					<wmd:volume>67.78</wmd:volume>
+					<wmd:idUnit>5</wmd:idUnit>
+				</wmd:workVolume>
+				<wmd:material>
+					<wmd:idMaterial>2497</wmd:idMaterial>
+					<wmd:title>материал 1</wmd:title>
+					<wmd:format>pdf, (.doc)</wmd:format>
+					<wmd:idMaterialType>1</wmd:idMaterialType>
+					<wmd:comments>Примечание - текст23</wmd:comments>
+					<wmd:materialFile>
+						<wmd:idMaterialFile>63737</wmd:idMaterialFile>
+						<wmd:path>пров хеша/2128-1-2251-1,3528 - 3815(Є_Уваров)_123шт.docx</wmd:path>
+					</wmd:materialFile>
+					<wmd:idDocType>401</wmd:idDocType>
+				</wmd:material>
+				<wmd:material>
+					<wmd:idMaterial>2498</wmd:idMaterial>
+					<wmd:title>материал 2</wmd:title>
+					<wmd:format>hg</wmd:format>
+					<wmd:idMaterialType>1</wmd:idMaterialType>
+					<wmd:materialFile>
+						<wmd:idMaterialFile>63738</wmd:idMaterialFile>
+						<wmd:path>пров хеша/nose.jpg</wmd:path>
+					</wmd:materialFile>
+					<wmd:materialFile>
+						<wmd:idMaterialFile>63739</wmd:idMaterialFile>
+						<wmd:path>пров хеша/Содержание</wmd:path>
+					</wmd:materialFile>
+					<wmd:idDocType>398</wmd:idDocType>
+				</wmd:material>
+			</wmd:workMethodInfo>
+		</rep:workSite>
+		<rep:workSite>
+			<g:idSpatialObject>4911</g:idSpatialObject>
+			<g:caption>участок месторождения Береговой-1(скв.1э,1бис,2э,2бис,3э,3бис,4э,4бис,5э,5бис,6э,6бис,13,8э,9бис,9р,10э,10бис,11э,11р,12э,12бис) - скв.1э,1бис</g:caption>
+			<g:idGeomType>4</g:idGeomType>
+			<g:srid>4284</g:srid>
+			<g:parts>
+				<g:part>
+					<g:coord>
+						<g:lon>83.0833</g:lon>
+						<g:lat>54.8167</g:lat>
+					</g:coord>
+				</g:part>
+			</g:parts>
+			<wmd:idWorkSite>3362</wmd:idWorkSite>
+		</rep:workSite>
+		<rep:workSite>
+			<g:idSpatialObject>4912</g:idSpatialObject>
+			<g:caption>участок месторождения Береговой-2(проект.скв.1,2,3,4,5,6,7,14) - скв.14</g:caption>
+			<g:idGeomType>4</g:idGeomType>
+			<g:srid>4284</g:srid>
+			<g:parts>
+				<g:part>
+					<g:coord>
+						<g:lon>83.0667</g:lon>
+						<g:lat>54.8333</g:lat>
+					</g:coord>
+				</g:part>
+			</g:parts>
+			<wmd:idWorkSite>3363</wmd:idWorkSite>
+		</rep:workSite>
+		<rep:workSite>
+			<g:idSpatialObject>4913</g:idSpatialObject>
+			<g:caption>участок месторождения Береговой-1(скв.1э,1бис,2э,2бис,3э,3бис,4э,4бис,5э,5бис,6э,6бис,13,8э,9бис,9р,10э,10бис,11э,11р,12э,12бис) - скв.2э,2бис,3э,3бис,4э,4бис,5э,5бис,6э,6бис,13</g:caption>
+			<g:idGeomType>4</g:idGeomType>
+			<g:srid>4284</g:srid>
+			<g:parts>
+				<g:part>
+					<g:coord>
+						<g:lon>83.0833</g:lon>
+						<g:lat>54.8333</g:lat>
+					</g:coord>
+				</g:part>
+			</g:parts>
+			<wmd:idWorkSite>3364</wmd:idWorkSite>
+		</rep:workSite>
+		<rep:workSite>
+			<g:idSpatialObject>4914</g:idSpatialObject>
+			<g:caption>участок месторождения Береговой-1(скв.1э,1бис,2э,2бис,3э,3бис,4э,4бис,5э,5бис,6э,6бис,13,8э,9бис,9р,10э,10бис,11э,11р,12э,12бис) - скв.8э,9бис,9р,10э,10бис,11э,11р,12э,12бис</g:caption>
+			<g:idGeomType>4</g:idGeomType>
+			<g:srid>4284</g:srid>
+			<g:parts>
+				<g:part>
+					<g:coord>
+						<g:lon>83.0667</g:lon>
+						<g:lat>54.8333</g:lat>
+					</g:coord>
+				</g:part>
+			</g:parts>
+			<wmd:idWorkSite>3365</wmd:idWorkSite>
+		</rep:workSite>
+		<rep:interpretedMaterial>
+			<wmd:idInterpretedMaterial>idm1182</wmd:idInterpretedMaterial>
+			<wmd:material>
+				<wmd:idMaterial>2495</wmd:idMaterial>
+				<wmd:title>массив 1</wmd:title>
+				<wmd:format>pdf, (.doc)</wmd:format>
+				<wmd:idMaterialType>2</wmd:idMaterialType>
+				<wmd:comments>Примечание - текст</wmd:comments>
+				<wmd:materialFile>
+					<wmd:idMaterialFile>63735</wmd:idMaterialFile>
+					<wmd:path>пров хеша/папка</wmd:path>
+				</wmd:materialFile>
+				<wmd:idScale>13</wmd:idScale>
+			</wmd:material>
+			<wmd:idWorkMethodInfo>id1497</wmd:idWorkMethodInfo>
+		</rep:interpretedMaterial>
+		<rep:interpretedMaterial>
+			<wmd:idInterpretedMaterial>idm1183</wmd:idInterpretedMaterial>
+			<wmd:material>
+				<wmd:idMaterial>2496</wmd:idMaterial>
+				<wmd:title>массив 2</wmd:title>
+				<wmd:format>hg</wmd:format>
+				<wmd:idMaterialType>2</wmd:idMaterialType>
+				<wmd:comments>текст</wmd:comments>
+				<wmd:materialFile>
+					<wmd:idMaterialFile>63736</wmd:idMaterialFile>
+					<wmd:path>пров хеша/nose</wmd:path>
+				</wmd:materialFile>
+				<wmd:idScale>1</wmd:idScale>
+			</wmd:material>
+			<wmd:idWorkMethodInfo>id1497</wmd:idWorkMethodInfo>
+			<wmd:idWorkMethodInfo>id1498</wmd:idWorkMethodInfo>
+		</rep:interpretedMaterial>
+		<rep:idStamp>2</rep:idStamp>
+		<rep:idWorkTypeSet>4</rep:idWorkTypeSet>
+		<rep:rawDataNotRequired>0</rep:rawDataNotRequired>
+		<rep:infArraysNotRequired>0</rep:infArraysNotRequired>
+	</report>
+	<explorationNotRequired>0</explorationNotRequired>
+	<explorationData>
+		<e:idExplorationData>689</e:idExplorationData>
+		<e:idMethodIndex>176</e:idMethodIndex>
+		<e:idScale>100</e:idScale>
+		<e:square>459873.88</e:square>
+		<e:spatialObjects>
+			<g:spatialObject>
+				<g:idSpatialObject>4948</g:idSpatialObject>
+				<g:caption>полиг1</g:caption>
+				<g:idGeomType>3</g:idGeomType>
+				<g:srid>7683</g:srid>
+				<g:parts>
+					<g:part>
+						<g:coord>
+							<g:lon>96.005532527778</g:lon>
+							<g:lat>74.027186083333</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>96.000558111111</g:lon>
+							<g:lat>75.033510861111</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>102.11637544444</g:lon>
+							<g:lat>75.007613472222</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>106.18672219444</g:lon>
+							<g:lat>74.997357666667</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>105.95046761111</g:lon>
+							<g:lat>71.994831277778</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>104.97540772222</g:lon>
+							<g:lat>71.997783638889</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>104.88296913889</g:lon>
+							<g:lat>69.986834361111</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>100.10742311111</g:lon>
+							<g:lat>70.001724055556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>95.423491833333</g:lon>
+							<g:lat>69.998909416667</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>90.103497944444</g:lon>
+							<g:lat>69.982351694444</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>90.1430585</g:lon>
+							<g:lat>68.981200194444</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>86.104662277778</g:lon>
+							<g:lat>68.970375805556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>81.941698916667</g:lon>
+							<g:lat>68.950908944444</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>79.366784944444</g:lon>
+							<g:lat>68.945254805556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>79.005416944444</g:lon>
+							<g:lat>72.941932916667</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>82.886338</g:lon>
+							<g:lat>72.976219444444</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>86.973745638889</g:lon>
+							<g:lat>73.004558027778</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>86.906237305556</g:lon>
+							<g:lat>73.988694083333</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>91.578738666667</g:lon>
+							<g:lat>74.005928</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>96.005532527778</g:lon>
+							<g:lat>74.027186083333</g:lat>
+						</g:coord>
+					</g:part>
+				</g:parts>
+			</g:spatialObject>
+			<g:spatialObject>
+				<g:idSpatialObject>4949</g:idSpatialObject>
+				<g:caption>полиг2</g:caption>
+				<g:idGeomType>3</g:idGeomType>
+				<g:srid>7683</g:srid>
+				<g:parts>
+					<g:part>
+						<g:coord>
+							<g:lon>96.005533333333</g:lon>
+							<g:lat>73.027186111111</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>97.000558333333</g:lon>
+							<g:lat>73.033511111111</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>100.116375</g:lon>
+							<g:lat>73.007613888889</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>102.17283333333</g:lon>
+							<g:lat>73.980691666667</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>102.95046666667</g:lon>
+							<g:lat>72.994830555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>104.97540833333</g:lon>
+							<g:lat>71.997783333333</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>102.88296944444</g:lon>
+							<g:lat>70.986833333333</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>96.005533333333</g:lon>
+							<g:lat>73.027186111111</g:lat>
+						</g:coord>
+					</g:part>
+				</g:parts>
+			</g:spatialObject>
+		</e:spatialObjects>
+		<e:idWorkMethodInfo>id1497</e:idWorkMethodInfo>
+		<e:idWorkMethodInfo>id1498</e:idWorkMethodInfo>
+		<e:cameralMethodology>методика 11</e:cameralMethodology>
+		<e:idInterpretedMaterial>idm1182</e:idInterpretedMaterial>
+		<e:idInterpretedMaterial>idm1183</e:idInterpretedMaterial>
+	</explorationData>
+	<gkmNotRequired>0</gkmNotRequired>
+	<gkmPassport>
+		<gkm:idGkm>458</gkm:idGkm>
+		<gkm:idIndex>2</gkm:idIndex>
+		<gkm:gkmMineral>
+			<gkm:idGkmMineral>437</gkm:idGkmMineral>
+			<gkm:mineral>Вода техническая</gkm:mineral>
+			<gkm:idMineral>30302</gkm:idMineral>
+			<gkm:idMineralType>2</gkm:idMineralType>
+		</gkm:gkmMineral>
+		<gkm:gkmMineral>
+			<gkm:idGkmMineral>438</gkm:idGkmMineral>
+			<gkm:mineral>Полезное ископаемое (Другое)</gkm:mineral>
+			<gkm:idMineral>4</gkm:idMineral>
+			<gkm:idMineralType>1</gkm:idMineralType>
+		</gkm:gkmMineral>
+		<gkm:gkmFile>
+			<gkm:idGkmFile>1379</gkm:idGkmFile>
+			<gkm:path>пров хеша/00566.tif</gkm:path>
+		</gkm:gkmFile>
+		<gkm:gkmFile>
+			<gkm:idGkmFile>1380</gkm:idGkmFile>
+			<gkm:path>пров хеша/папка</gkm:path>
+		</gkm:gkmFile>
+	</gkmPassport>
+	<fileStructure>
+		<uploaded>
+			<directoryFileIndex>
+				<fileIndexItem>
+					<name>EfgiIndexer.exe</name>
+					<hash>74df42f8180b545a09955fb78b499b99</hash>
+				</fileIndexItem>
+			</directoryFileIndex>
+			<isUpdated>0</isUpdated>
+		</uploaded>
+		<media>
+			<idMedia>2179</idMedia>
+			<name>пров хеша</name>
+			<idMediaType>1</idMediaType>
+			<directoryFileIndex>
+				<fileIndexItem>
+					<name>00566.tif</name>
+					<hash>42fe3072b43d13e065bc4ca422f82253</hash>
+				</fileIndexItem>
+				<fileIndexItem>
+					<name>2128-1-2251-1,3528 - 3815(Є_Уваров)_123шт.docx</name>
+					<hash>4162f341a63ae24cb66c09866ee38a33</hash>
+				</fileIndexItem>
+				<fileIndexItem>
+					<name>gdb</name>
+					<hash>5d70018d147eba0b3ec2f832d7a388d2</hash>
+				</fileIndexItem>
+				<fileIndexItem>
+					<name>nose</name>
+					<isFolder/>
+				</fileIndexItem>
+				<fileIndexItem>
+					<name>nose.jpg</name>
+					<hash>754ff451e13a286eaf358d30301d00b7</hash>
+				</fileIndexItem>
+				<fileIndexItem>
+					<name>RECYCLER</name>
+					<isFolder/>
+					<fileIndexItem>
+						<name>Новый текстовый документ.txt</name>
+						<hash>91741503e1640d742db4c7dd2f42dc7a</hash>
+					</fileIndexItem>
+				</fileIndexItem>
+				<fileIndexItem>
+					<name>Новый текстовый документ.txt</name>
+					<hash>d41d8cd98f00b204e9800998ecf8427e</hash>
+				</fileIndexItem>
+				<fileIndexItem>
+					<name>папка</name>
+					<isFolder/>
+					<fileIndexItem>
+						<name>Recycler</name>
+						<isFolder/>
+						<fileIndexItem>
+							<name>xcvxc.txt</name>
+							<hash>363ce5b1bc0fbb653c8202ad71d4e994</hash>
+						</fileIndexItem>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Новая папка</name>
+						<isFolder/>
+						<fileIndexItem>
+							<name>recycler</name>
+							<isFolder/>
+							<fileIndexItem>
+								<name>vxcvx.txt</name>
+								<hash>6ebf92a3172b386f0e3d050e5a1a0d2c</hash>
+							</fileIndexItem>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>_Результаты_заявка№41.xlsx</name>
+							<hash>3ee263ef2e6ef6da0d3544e1efca9a36</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>полигон%.docx</name>
+							<hash>989e2d88ec997195b60f21050a356768</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>полигон.docx</name>
+							<hash>0ca8e673634c67e279fd73e67470dd96</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>полигоны.docx</name>
+							<hash>24d0fe115372ebc3875480311a8ca547</hash>
+						</fileIndexItem>
+					</fileIndexItem>
+				</fileIndexItem>
+				<fileIndexItem>
+					<name>Содержание</name>
+					<isFolder/>
+					<fileIndexItem>
+						<name>00008 - ПЕРЕИМ.tif</name>
+						<hash>4652f51c40f63b526f434ad66ab15846</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>06.JPG</name>
+						<hash>43413e18be6ba675e870cf798fa1f5f0</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>В Ы П И С К А № 56 M-45-IV (Иогач).doc</name>
+						<hash>8277d2f77364b5ef0aabe4ccf0bdd958</hash>
+					</fileIndexItem>
+				</fileIndexItem>
+			</directoryFileIndex>
+			<isUpdated>0</isUpdated>
+		</media>
+	</fileStructure>
+</supply>

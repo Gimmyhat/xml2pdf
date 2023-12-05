@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<supply>
+	<description>Проведение разведочных работы на восточно-Владикавказском 2 участке подземных вод, эксплуатируемом ООО "Миранда" с целью хозяйственно-питьевого и технологического водоснабжения </description>
+	<explorationData>
+		<e:idMethodIndex>145</e:idMethodIndex>
+		<e:idScale>2</e:idScale>
+		<e:idWorkMethodInfo>0d2140ce-868b-43f9-b4b2-a625751bd7cd</e:idWorkMethodInfo>
+		<key>1448bea6-6b18-4a0d-9826-3b68964d9803</key>
+		<e:spatialObjects>
+			<g:spatialObject>
+				<g:caption>"Восточно-Владикавказский 22"</g:caption>
+				<coordinatesLink>a9f3b8ae-6dfe-4eaf-9001-57a3d74bd814</coordinatesLink>
+				<g:idGeomType>3</g:idGeomType>
+				<g:parts>
+					<g:part>
+						<g:coord>
+							<g:lat>5.54289E-4</g:lat>
+							<g:lon>0.015775767</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>5.54289E-4</g:lat>
+							<g:lon>0.015775767</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>5.54289E-4</g:lat>
+							<g:lon>0.015789656</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>5.54289E-4</g:lat>
+							<g:lon>0.015775767</g:lon>
+						</g:coord>
+					</g:part>
+					<g:part>
+						<g:coord>
+							<g:lat>5.54289E-4</g:lat>
+							<g:lon>0.015775767</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>5.54289E-4</g:lat>
+							<g:lon>0.015220212</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>8.32067E-4</g:lat>
+							<g:lon>7.75767E-4</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>8.32067E-4</g:lat>
+							<g:lon>8.17434E-4</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>8.32067E-4</g:lat>
+							<g:lon>0.001178545</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>8.32067E-4</g:lat>
+							<g:lon>0.001465309</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>8.32067E-4</g:lat>
+							<g:lon>0.001470212</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>5.54289E-4</g:lat>
+							<g:lon>0.015775767</g:lon>
+						</g:coord>
+					</g:part>
+					<g:part>
+						<g:coord>
+							<g:lat>8.32067E-4</g:lat>
+							<g:lon>0.001465309</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>8.32067E-4</g:lat>
+							<g:lon>0.001442434</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>8.32067E-4</g:lat>
+							<g:lon>0.001720212</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>8.32067E-4</g:lat>
+							<g:lon>0.001470212</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>8.32067E-4</g:lat>
+							<g:lon>0.001470212</g:lon>
+						</g:coord>
+						<g:coord>
+							<g:lat>8.32067E-4</g:lat>
+							<g:lon>0.001465309</g:lon>
+						</g:coord>
+					</g:part>
+				</g:parts>
+				<g:srid>4326</g:srid>
+			</g:spatialObject>
+		</e:spatialObjects>
+		<e:square>0.15</e:square>
+	</explorationData>
+	<idSupply>1329</idSupply>
+	<report>
+		<rep:authors>Пащенко А.А.</rep:authors>
+		<rep:conclusions>Осуществлять в процессе работы водозабора наблюдения за режимом эксплуатации подземных вод (дебиты, уровни, качество). Составить Проект водозабора участка и согласовать его в установленном порядке  </rep:conclusions>
+		<rep:cost>4800.00</rep:cost>
+		<rep:customerOgrn>1051500300433</rep:customerOgrn>
+		<rep:customerOrgName>ООО "Миранда"</rep:customerOrgName>
+		<rep:geolSamples/>
+		<rep:ginInfoList>
+			<g:ginInfo>
+				<g:ngr>90-19-122</g:ngr>
+			</g:ginInfo>
+		</rep:ginInfoList>
+		<rep:idFinancingSource>3</rep:idFinancingSource>
+		<rep:idRegion>1</rep:idRegion>
+		<rep:idReportType>1</rep:idReportType>
+		<rep:idSubsoilUseType>3</rep:idSubsoilUseType>
+		<rep:licInfoList>
+			<g:licInfo>
+				<g:dateReg>2016-10-27</g:dateReg>
+				<g:fullNumber>ВЛК00583ВЭ</g:fullNumber>
+			</g:licInfo>
+		</rep:licInfoList>
+		<rep:minerals>
+			<rep:mineral>
+				<rep:hasReservesCalc>1</rep:hasReservesCalc>
+				<rep:hasReservesExpertise>1</rep:hasReservesExpertise>
+				<rep:hasResourcesApprobation>0</rep:hasResourcesApprobation>
+				<rep:hasResourcesCalc>0</rep:hasResourcesCalc>
+				<rep:idReportMineral>3</rep:idReportMineral>
+				<rep:mineral>Подземные воды и лечебные грязи</rep:mineral>
+			</rep:mineral>
+		</rep:minerals>
+		<rep:nomenclature>K-38</rep:nomenclature>
+		<rep:orgName>ООО "Гидро-плюс"</rep:orgName>
+		<rep:purpose>Целевое назначение: решение проблемы хозяйственно-питьевого и технологического водоснабжения производственного комплекса предприятия за счет подземных вод акчагыл-апшеронского водоносного комплекса с оценкой запасов в количестве 6000 м3/сут. по категории В</rep:purpose>
+		<rep:reservesProtocol>
+			<rep:idReportMineral>3</rep:idReportMineral>
+			<rep:protocolDate>2021-08-31</rep:protocolDate>
+			<rep:protocolNumber>СК-15-2021-67-ПВ</rep:protocolNumber>
+		</rep:reservesProtocol>
+		<rep:workBeginIdQuarter>3</rep:workBeginIdQuarter>
+		<rep:workBeginYear>2019</rep:workBeginYear>
+		<rep:workEndIdQuarter>4</rep:workEndIdQuarter>
+		<rep:workEndYear>2019</rep:workEndYear>
+		<rep:workSite>
+			<g:caption>"Восточно- Владикавказский 2"</g:caption>
+			<coordinatesLink>b76c9396-fd0b-4282-a4fb-5b1fb62c531d</coordinatesLink>
+			<g:idGeomType>3</g:idGeomType>
+			<g:parts>
+				<g:part>
+					<g:coord>
+						<g:lat>5.54289E-4</g:lat>
+						<g:lon>0.015775767</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>5.54289E-4</g:lat>
+						<g:lon>0.015775767</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>5.54289E-4</g:lat>
+						<g:lon>0.015789656</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>5.54289E-4</g:lat>
+						<g:lon>0.015775767</g:lon>
+					</g:coord>
+				</g:part>
+				<g:part>
+					<g:coord>
+						<g:lat>5.54289E-4</g:lat>
+						<g:lon>0.015775767</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>5.54289E-4</g:lat>
+						<g:lon>0.015220212</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>8.32067E-4</g:lat>
+						<g:lon>7.75767E-4</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>8.32067E-4</g:lat>
+						<g:lon>8.17434E-4</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>8.32067E-4</g:lat>
+						<g:lon>0.001178545</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>8.32067E-4</g:lat>
+						<g:lon>0.001465309</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>8.32067E-4</g:lat>
+						<g:lon>0.001470212</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>5.54289E-4</g:lat>
+						<g:lon>0.015775767</g:lon>
+					</g:coord>
+				</g:part>
+				<g:part>
+					<g:coord>
+						<g:lat>8.32067E-4</g:lat>
+						<g:lon>0.001465309</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>8.32067E-4</g:lat>
+						<g:lon>0.001442434</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>8.32067E-4</g:lat>
+						<g:lon>0.001720212</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>8.32067E-4</g:lat>
+						<g:lon>0.001470212</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>8.32067E-4</g:lat>
+						<g:lon>0.001470212</g:lon>
+					</g:coord>
+					<g:coord>
+						<g:lat>8.32067E-4</g:lat>
+						<g:lon>0.001465309</g:lon>
+					</g:coord>
+				</g:part>
+			</g:parts>
+			<g:srid>4326</g:srid>
+			<wmd:workMethodInfo>
+				<wmd:idMethod>1465</wmd:idMethod>
+				<wmd:idScale>2</wmd:idScale>
+				<wmd:idSubsoilUseType>3</wmd:idSubsoilUseType>
+				<wmd:idWorkMethodInfo>0d2140ce-868b-43f9-b4b2-a625751bd7cd</wmd:idWorkMethodInfo>
+				<key>0d2140ce-868b-43f9-b4b2-a625751bd7cd</key>
+				<wmd:material>
+					<wmd:materialFile>
+						<wmd:path>Основные данные/Первичная документация/1_1_Акт обследования потенциальных источников загрязнения.pdf</wmd:path>
+					</wmd:materialFile>
+					<wmd:title>Акт обследования потенциальных источников загрязнения.</wmd:title>
+				</wmd:material>
+				<wmd:material>
+					<wmd:materialFile>
+						<wmd:path>Основные данные/Первичная документация/1_2_Анкета обследования 1-2015.pdf</wmd:path>
+					</wmd:materialFile>
+					<wmd:title>Анкета обследования скв. №1/2015 действующего водозабора</wmd:title>
+				</wmd:material>
+				<wmd:material>
+					<wmd:materialFile>
+						<wmd:path>Основные данные/Первичная документация/1_3_Анкета обследования 2-2015.pdf</wmd:path>
+					</wmd:materialFile>
+					<wmd:title>Анкета обследования скв. №2/2015 действующего водозабора</wmd:title>
+				</wmd:material>
+				<wmd:material>
+					<wmd:materialFile>
+						<wmd:path>Основные данные/Первичная документация/2_Ведомость координат скважин.pdf</wmd:path>
+					</wmd:materialFile>
+					<wmd:title>Ведомость координат</wmd:title>
+				</wmd:material>
+				<wmd:material>
+					<wmd:materialFile>
+						<wmd:path>Основные данные/Первичная документация/3_1_Акт заложения скважины 3-2019.pdf</wmd:path>
+					</wmd:materialFile>
+					<wmd:title>Акт на заложение разведочно-эксплуатационной скважины №3/2019</wmd:title>
+				</wmd:material>
+				<wmd:material>
+					<wmd:materialFile>
+						<wmd:path>Основные данные/Первичная документация/3_2_Акт приема-сдачи скв. 3-2019.pdf</wmd:path>
+					</wmd:materialFile>
+					<wmd:title>Акт на прием-сдачу разведочно-эксплуатационной скважины №3/2019</wmd:title>
+				</wmd:material>
+				<wmd:material>
+					<wmd:materialFile>
+						<wmd:path>Основные данные/Первичная документация/3_3_Паспорта скважин.pdf</wmd:path>
+					</wmd:materialFile>
+					<wmd:title>Паспорта скважин</wmd:title>
+				</wmd:material>
+				<wmd:material>
+					<wmd:materialFile>
+						<wmd:path>Основные данные/Первичная документация/4_3_Журнал откачки_3-2019.pdf, Основные данные/Первичная документация/4_2_Журнал откачки_2-2015.pdf, Основные данные/Первичная документация/4_1_Журнал откачки_1-2015.pdf, Основные данные/Первичная документация/4_4 Журнал куст откачки и обработка.pdf</wmd:path>
+					</wmd:materialFile>
+					<wmd:title>Журналы опытной откачки</wmd:title>
+				</wmd:material>
+				<wmd:material>
+					<wmd:materialFile>
+						<wmd:path>Основные данные/Первичная документация/5_Протоколы анализизов 2019-2020 г г.pdf</wmd:path>
+					</wmd:materialFile>
+					<wmd:title>Копии протоколов проб воды</wmd:title>
+				</wmd:material>
+				<wmd:technicalMeans>
+					<wmd:controlMeans>
+						<wmd:path>Основные данные/Первичная документация/1_1_Акт обследования потенциальных источников загрязнения.pdf</wmd:path>
+					</wmd:controlMeans>
+					<key>bd12b9b0-e587-461a-8978-77ff5a7521eb</key>
+					<wmd:title>Акт обследования потенциальных источников загрязнения.</wmd:title>
+				</wmd:technicalMeans>
+				<wmd:workVolume>
+					<wmd:idUnit>5</wmd:idUnit>
+					<wmd:volume>0.15</wmd:volume>
+				</wmd:workVolume>
+			</wmd:workMethodInfo>
+		</rep:workSite>
+		<rep:workSquareTotal>139.5</rep:workSquareTotal>
+		<rep:year>2021</rep:year>
+	</report>
+	<tfgiData>
+		<idTfgi>48</idTfgi>
+	</tfgiData>
+</supply>

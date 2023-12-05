@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<supply xmlns="urn://efgi.ru/XSD/efgiSupply" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rep="urn://efgi.ru/XSD/efgiReport" xmlns:g="urn://efgi.ru/XSD/efgiGlobals" xmlns:wmd="urn://efgi.ru/XSD/efgiWorkMaterialDescription" xmlns:e="urn://efgi.ru/XSD/efgiExploration" xmlns:gkm="urn://efgi.ru/XSD/efgiGkmPassport">
+	<version>12</version>
+	<idSupply>280</idSupply>
+	<description>Геологическое изучение недр и разведка (доразведка) с целью оценки (переоценки) запасов подземных вод для целей ППД Неклюдовского месторождения.</description>
+	<contactData>
+		<g:name>Владимир</g:name>
+		<g:patronymic>Иванович</g:patronymic>
+		<g:surname>Колев</g:surname>
+		<g:position>Ведущий инженер</g:position>
+		<g:email>KolevVI@samnipi.rosneft.ru</g:email>
+		<g:phone>+7(937)2038473</g:phone>
+		<g:orgName>АКЦИОНЕРНОЕ ОБЩЕСТВО "САМАРАНЕФТЕГАЗ"</g:orgName>
+		<g:orgAddress>443071 г Самара, пр-кт Волжский 50</g:orgAddress>
+		<g:ogrn>1026300956990</g:ogrn>
+	</contactData>
+	<idTfgi>53</idTfgi>
+	<report>
+		<rep:customerOrgName>АКЦИОНЕРНОЕ ОБЩЕСТВО "САМАРАНЕФТЕГАЗ"</rep:customerOrgName>
+		<rep:customerOgrn>1026300956990</rep:customerOgrn>
+		<rep:orgName>ООО "ИЦ-Проект"</rep:orgName>
+		<rep:byPowerOfAttorney>0</rep:byPowerOfAttorney>
+		<rep:authors>Кислухина П.А.</rep:authors>
+		<rep:ginInfoList>
+			<g:ginInfo>
+				<g:idGinInfo>185</g:idGinInfo>
+				<g:ngr>033-21-03181</g:ngr>
+			</g:ginInfo>
+		</rep:ginInfoList>
+		<rep:licInfoList>
+			<g:licInfo>
+				<g:idLicInfo>292</g:idLicInfo>
+				<g:fullNumber>СМР02051НЭ</g:fullNumber>
+				<g:dateReg>2016-03-04</g:dateReg>
+			</g:licInfo>
+		</rep:licInfoList>
+		<rep:expertise>
+			<rep:idExpertise>202</rep:idExpertise>
+			<rep:expertiseNumber>307-02-07/2021</rep:expertiseNumber>
+			<rep:expertiseDate>2021-09-22</rep:expertiseDate>
+		</rep:expertise>
+		<rep:workBeginYear>2021</rep:workBeginYear>
+		<rep:workBeginIdQuarter>3</rep:workBeginIdQuarter>
+		<rep:workEndYear>2021</rep:workEndYear>
+		<rep:workEndIdQuarter>4</rep:workEndIdQuarter>
+		<rep:year>2021</rep:year>
+		<rep:idReportType>1</rep:idReportType>
+		<rep:idSubsoilUseType>3</rep:idSubsoilUseType>
+		<rep:purpose>Цель работ – переоценка запасов технических подземных вод – источников водоснабжения Неклюдовского нефтяного месторождения: серпуховского водоносного горизонта в количестве 1700 м3/сут, радаевского водоносного горизонта в количестве 5400 м3/сут. </rep:purpose>
+		<rep:idFinancingSource>3</rep:idFinancingSource>
+		<rep:cost>1118044.01</rep:cost>
+		<rep:keywords>Неклюдовское месторождение, серпуховский и радаевский водоносные горизонты, химический состав, категория и запасы технических подземных вод, Борский р-н Самарской обл., Бузулукский р-н Оренбургской обл., &#13;
+N 39-XXVIII.&#13;
+</rep:keywords>
+		<rep:abstract>Качество подземных вод должно удовлетворять требованиям стандарта ОСТ 39-255-88. Выполнен сбор информации, обследование водозабора, переинтерпретация материалов ГИС, анализ опыта эксплуатации водозабора, исследования совместимости пластовых и закачиваемых вод, камеральные работы. &#13;
+Ранее запасы техническиз подземных вод были утверждены протоколом ТКЗ Самаранедра № 117-см от 13 декабря 2016 г. в количестве: 360 м3/сут по категории С1 по серпуховскому, 250 м3/сут по категории С2 по бобриковскому, 2160 м3/сут по категории С1 по радаевскому водоносным горизонтам, всего по месторождению 2770 м3/сут. &#13;
+Переоценка запасов технических подземных вод серпуховского и радаевского водоносных горизонтов для использования в системе ППД Неклюдовского месторождения выполнена гидродинамическим методом в обёме заявленной потребности 7100 м3/сут по категориям: В – 2000 м3/сут, С1 – 5100 м3/сут. &#13;
+</rep:abstract>
+		<rep:conclusions>Работы по переоценке запасов подземных вод Неклюдовского месторождения на действующем одноименном водозаборе АО «Самаранефтегаз» выполнялись на основании договора подряда №ЕН-2021-03/3410020/1129Д/3224820/4162Д/20-03878-010 от 31.12.2020 г (Субподрядный договор № 91НР/3410021/0469Д от 20.05.2021 г.) в соответствии с техническим (геологическим) заданием.&#13;
+В результате проведенных работ подсчитаны запасы технических подземных вод в количестве 7100 м3/сут на срок эксплуатации 25 лет (9131 сут).&#13;
+Месторождение приурочено к водоносным серпуховскому и радаевскому горизонтам. Мощность серпуховских отложений на территории месторождения меняется от 152,7 м до 189,3 м при среднем значении 170,8 м. Эффективная мощность горизонта по результатам ГИС варьирует в диапазоне 25,5 - 71,6 м, составляя в среднем 39,6 м или 23 % от общей мощности. Водообильность водоносного горизонта достаточно высокая, дебиты скважин составляют 60 - 157 м3/сут при понижении уровня, соответственно на 21 - 137 м.&#13;
+Мощность радаевских отложений – от 34,9 м до 84,6 м, эффективная мощность – от 12,8 м до 50,6 м (средние значения: первой - 62,5 м, второй - 27,9 м или 45 %). Водообильность водоносного горизонта высокая, дебиты скважин колеблются от 41,43 до 217,58 м3/сут, в единичных случаях составляют 4,0 м3/сут. Понижение уровня происходит на глубину 72 - 99 м, соответственно. &#13;
+Подземные воды серпуховского и радаевского водоносных горизонтов по химическому составу хлоридные натриевые, кальциево-натриевые, с минерализацией &#13;
+135 – 275 г/дм3, пригодны для использования по целевому назначению.&#13;
+Водозабор состоит из 34 скважин, из которых 9 – действующих, 25 – проектных. Переоценка запасов выполнена гидродинамическим методом по результатам анализа опыта эксплуатации действующих скважин, переинтерпретации материалов геофизических исследований скважин, других работ.&#13;
+Нагрузка на скважины распределена равномерно: преимущественно по 200 м3/сут, – единично по 250 - 300 м3/сут. Фактические дебиты действующих водозаборных скважин Неклюдовского месторождения достигают 217 м3/сут, что указывает на возможность получения производительности скважин на уровне технического задания. &#13;
+Доказана возможность получения проектных дебитов по скважинам. Расчетные понижения меньше допустимых понижений (Spас &lt;Sдоп).&#13;
+Запасы Неклюдовского участка технических подземных вод обеспечены сработкой упруго-емкостных запасов на срок эксплуатации водозабора 25 лет.&#13;
+По сложности геолого-гидрогеологических условий Неклюдовское месторождение технических подземных вод относится ко второй группе - месторождения со сложными геологическими и гидрогеологическими условиями.&#13;
+Представленные к утверждению запасы технических подземных вод подсчитаны на 01.10.2021 г. на срок эксплуатации 25 лет, обеспечены на весь период эксплуатации, классифицируются как балансовые в количестве 7100 м3/сут, в том числе по категориям: «В» – 2000 м3/сут, «С1» - 5100 м3/сут.&#13;
+Таким образом, Неклюдовское месторождение технических подземных вод на участке одноименного водозабора является подготовленным для дальнейшей эксплуатации на базе запасов категорий «В» и «С1».&#13;
+Дальнейшие усилия недропользователя должны быть направлены на организацию постоянного контроля за объемом и качеством откачиваемых из водозаборных скважин технических вод, положением динамического и статического (при остановке скважин для профилактических и ремонтных работ) уровня и надлежащим техническим состоянием скважин.&#13;
+</rep:conclusions>
+		<rep:idRegion>36000000000</rep:idRegion>
+		<rep:nomenclature>N-39</rep:nomenclature>
+		<rep:structure>
+			<rep:technicalSpecification>
+				<g:idFileIndex>9506</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 4</g:comments>
+			</rep:technicalSpecification>
+			<rep:title>
+				<g:idFileIndex>7170</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 1</g:comments>
+			</rep:title>
+			<rep:abstract>
+				<g:idFileIndex>7171</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 3</g:comments>
+			</rep:abstract>
+			<rep:contents>
+				<g:idFileIndex>7172</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 8</g:comments>
+			</rep:contents>
+			<rep:imageList>
+				<g:idFileIndex>7173</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 9</g:comments>
+			</rep:imageList>
+			<rep:tableList>
+				<g:idFileIndex>7174</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 10</g:comments>
+			</rep:tableList>
+			<rep:textAnnexList>
+				<g:idFileIndex>7175</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 11</g:comments>
+			</rep:textAnnexList>
+			<rep:graphAnnexList>
+				<g:idFileIndex>7176</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 11</g:comments>
+			</rep:graphAnnexList>
+			<rep:glossary>
+				<g:idFileIndex>7177</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 12</g:comments>
+			</rep:glossary>
+			<rep:reportText>
+				<rep:introduction>
+					<g:idFileIndex>7178</g:idFileIndex>
+					<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+					<g:comments>стр. 13</g:comments>
+				</rep:introduction>
+				<rep:mainPart>
+					<g:idFileIndex>7179</g:idFileIndex>
+					<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+					<g:comments>стр. 16-129</g:comments>
+				</rep:mainPart>
+				<rep:conclusion>
+					<g:idFileIndex>7180</g:idFileIndex>
+					<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+					<g:comments>стр. 130</g:comments>
+				</rep:conclusion>
+			</rep:reportText>
+			<rep:bibliography>
+				<g:idFileIndex>7181</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 132</g:comments>
+			</rep:bibliography>
+			<rep:metrologicalExpertise>
+				<g:idFileIndex>7182</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 254</g:comments>
+			</rep:metrologicalExpertise>
+			<rep:patentResearch>
+				<g:idFileIndex>7183</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 255</g:comments>
+			</rep:patentResearch>
+			<rep:protocol>
+				<g:idFileIndex>9507</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 300</g:comments>
+			</rep:protocol>
+			<rep:costStatement>
+				<g:idFileIndex>7184</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 256</g:comments>
+			</rep:costStatement>
+			<rep:textAnnex>
+				<g:idFileIndex>9508</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Книга 1.pdf</g:fileName>
+				<g:comments>стр. 134-323</g:comments>
+			</rep:textAnnex>
+			<rep:graphAnnex>
+				<g:idFileIndex>9509</g:idFileIndex>
+				<g:fileName>Архив/на диск (отчет)/Графические приложения</g:fileName>
+			</rep:graphAnnex>
+			<rep:metrologicalExpertiseNotRequired>0</rep:metrologicalExpertiseNotRequired>
+			<rep:patentResearchNotRequired>0</rep:patentResearchNotRequired>
+			<rep:costStatementNotRequired>0</rep:costStatementNotRequired>
+			<rep:reviewsNotRequired>1</rep:reviewsNotRequired>
+		</rep:structure>
+		<rep:minerals>
+			<rep:mineral>
+				<rep:idReportMineral>id_rm291</rep:idReportMineral>
+				<rep:idMineral>30302</rep:idMineral>
+				<rep:mineral>Воды технические</rep:mineral>
+				<rep:hasReservesCalc>1</rep:hasReservesCalc>
+				<rep:hasResourcesCalc>0</rep:hasResourcesCalc>
+				<rep:hasReservesExpertise>1</rep:hasReservesExpertise>
+				<rep:hasResourcesApprobation>0</rep:hasResourcesApprobation>
+			</rep:mineral>
+		</rep:minerals>
+		<rep:reservesProtocol>
+			<rep:idReservesProtocol>144</rep:idReservesProtocol>
+			<rep:protocolNumber>452-СМ</rep:protocolNumber>
+			<rep:protocolDate>2022-02-24</rep:protocolDate>
+			<rep:idReportMineral>id_rm291</rep:idReportMineral>
+		</rep:reservesProtocol>
+		<rep:workSquareTotal>48.75</rep:workSquareTotal>
+		<rep:workSite>
+			<g:idSpatialObject>2546</g:idSpatialObject>
+			<g:caption>Участок Неклюдовский</g:caption>
+			<g:idGeomType>3</g:idGeomType>
+			<g:srid>7683</g:srid>
+			<g:parts>
+				<g:part>
+					<g:coord>
+						<g:lon>51.995</g:lon>
+						<g:lat>53.220230555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.018544444444</g:lon>
+						<g:lat>53.191897222222</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.045213888889</g:lon>
+						<g:lat>53.180230555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.050213888889</g:lon>
+						<g:lat>53.168563888889</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.041880555556</g:lon>
+						<g:lat>53.163563888889</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.045213888889</g:lon>
+						<g:lat>53.156897222222</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.078547222222</g:lon>
+						<g:lat>53.155230555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.110216666667</g:lon>
+						<g:lat>53.140230555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.121883333333</g:lon>
+						<g:lat>53.145230555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.14355</g:lon>
+						<g:lat>53.133563888889</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.15355</g:lon>
+						<g:lat>53.125230555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.146886111111</g:lon>
+						<g:lat>53.105230555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.110216666667</g:lon>
+						<g:lat>53.115230555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.096883333333</g:lon>
+						<g:lat>53.126897222222</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.048547222222</g:lon>
+						<g:lat>53.135230555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.045213888889</g:lon>
+						<g:lat>53.140230555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.028547222222</g:lon>
+						<g:lat>53.153563888889</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.011880555556</g:lon>
+						<g:lat>53.160230555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>52.003547222222</g:lon>
+						<g:lat>53.158563888889</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>51.976877777778</g:lon>
+						<g:lat>53.161894444444</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>51.955211111111</g:lon>
+						<g:lat>53.166894444444</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>51.951877777778</g:lon>
+						<g:lat>53.183561111111</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>51.963544444444</g:lon>
+						<g:lat>53.186897222222</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>51.968541666667</g:lon>
+						<g:lat>53.211897222222</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>51.995</g:lon>
+						<g:lat>53.220230555556</g:lat>
+					</g:coord>
+				</g:part>
+			</g:parts>
+			<wmd:idWorkSite>553</wmd:idWorkSite>
+			<wmd:workMethodInfo>
+				<wmd:idWorkMethodInfo>id2221</wmd:idWorkMethodInfo>
+				<wmd:idSubsoilUseType>3</wmd:idSubsoilUseType>
+				<wmd:idMethod>1443</wmd:idMethod>
+				<wmd:methodology>При обследовании участка недр Неклюдовского нефтяного месторождения решались следующие задачи:&#13;
+- изучение и оценка степени техногенной освоенности исследуемой территории;&#13;
+- выявление и оценка существующих и потенциальных источников загрязнения природной среды;&#13;
+- визуальный осмотр водозаборных скважин.&#13;
+Обследование участка недр выполнены пешими и автомобильными маршрутами с осмотром объектов обследования на местности.</wmd:methodology>
+				<wmd:idScale>100</wmd:idScale>
+				<wmd:technicalMeans>
+					<wmd:idTechnicalMeans>1875</wmd:idTechnicalMeans>
+					<wmd:title>навигатор Garmin Etrex</wmd:title>
+				</wmd:technicalMeans>
+				<wmd:technicalMeans>
+					<wmd:idTechnicalMeans>1876</wmd:idTechnicalMeans>
+					<wmd:title>Автомобиль Nissan</wmd:title>
+				</wmd:technicalMeans>
+				<wmd:workVolume>
+					<wmd:idWorkVolume>2470</wmd:idWorkVolume>
+					<wmd:volume>9</wmd:volume>
+					<wmd:idUnit>5</wmd:idUnit>
+				</wmd:workVolume>
+				<wmd:material>
+					<wmd:idMaterial>5793</wmd:idMaterial>
+					<wmd:title>Акты обследования водозаборов подземных вод</wmd:title>
+					<wmd:format>.pdf</wmd:format>
+					<wmd:idMaterialType>1</wmd:idMaterialType>
+					<wmd:materialFile>
+						<wmd:idMaterialFile>28787</wmd:idMaterialFile>
+						<wmd:path>Архив/на диск (первичка)/первичные материалы/Акт обследования водозабора.pdf</wmd:path>
+					</wmd:materialFile>
+					<wmd:idDocType>540</wmd:idDocType>
+				</wmd:material>
+				<wmd:techObj>
+					<g:idSpatialObject>3931</g:idSpatialObject>
+					<g:caption>3</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>51.995211111111</g:lon>
+								<g:lat>53.192008333333</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1877</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3932</g:idSpatialObject>
+					<g:caption>338</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.001658333333</g:lon>
+								<g:lat>53.203419444444</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1878</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3933</g:idSpatialObject>
+					<g:caption>502</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.076080555556</g:lon>
+								<g:lat>53.149736111111</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1879</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3934</g:idSpatialObject>
+					<g:caption>528</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.119597222222</g:lon>
+								<g:lat>53.129905555556</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1880</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3935</g:idSpatialObject>
+					<g:caption>182</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.071583333333</g:lon>
+								<g:lat>53.152527777778</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1881</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3936</g:idSpatialObject>
+					<g:caption>427</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.045888888889</g:lon>
+								<g:lat>53.144897222222</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1882</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3937</g:idSpatialObject>
+					<g:caption>508</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.036208333333</g:lon>
+								<g:lat>53.173475</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1883</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3938</g:idSpatialObject>
+					<g:caption>605</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.084525</g:lon>
+								<g:lat>53.145780555556</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1884</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3939</g:idSpatialObject>
+					<g:caption>213</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.019011111111</g:lon>
+								<g:lat>53.160669444444</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1885</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3940</g:idSpatialObject>
+					<g:caption>239</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>51.968397222222</g:lon>
+								<g:lat>53.171980555556</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1886</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+			</wmd:workMethodInfo>
+			<wmd:workMethodInfo>
+				<wmd:idWorkMethodInfo>id2222</wmd:idWorkMethodInfo>
+				<wmd:idSubsoilUseType>3</wmd:idSubsoilUseType>
+				<wmd:idMethod>223</wmd:idMethod>
+				<wmd:methodology>Общие методы ГИС включали в себя стандартную электрометрию (КС, ПС),&#13;
+радиоактивные методы (НГК, ГК), резистивиметрию и кавернометрию (КВ) в масштабе&#13;
+1 500. </wmd:methodology>
+				<wmd:idScale>100</wmd:idScale>
+				<wmd:technicalMeans>
+					<wmd:idTechnicalMeans>1877</wmd:idTechnicalMeans>
+					<wmd:title>АБКТ-4, Агат-К9, ДРСТ-3</wmd:title>
+				</wmd:technicalMeans>
+				<wmd:workVolume>
+					<wmd:idWorkVolume>2471</wmd:idWorkVolume>
+					<wmd:volume>9</wmd:volume>
+					<wmd:idUnit>7</wmd:idUnit>
+				</wmd:workVolume>
+				<wmd:material>
+					<wmd:idMaterial>5794</wmd:idMaterial>
+					<wmd:title>Скан-образы диаграмм</wmd:title>
+					<wmd:format>pdf</wmd:format>
+					<wmd:idMaterialType>1</wmd:idMaterialType>
+					<wmd:comments>стр. 83-84</wmd:comments>
+					<wmd:materialFile>
+						<wmd:idMaterialFile>28788</wmd:idMaterialFile>
+						<wmd:path>Архив/на диск (отчет)/Книга 1.pdf</wmd:path>
+					</wmd:materialFile>
+					<wmd:idDocType>341</wmd:idDocType>
+				</wmd:material>
+				<wmd:material>
+					<wmd:idMaterial>5795</wmd:idMaterial>
+					<wmd:title>Результаты интерпретации данных ГИС</wmd:title>
+					<wmd:format>.pdf</wmd:format>
+					<wmd:idMaterialType>1</wmd:idMaterialType>
+					<wmd:comments>стр. 263-289</wmd:comments>
+					<wmd:materialFile>
+						<wmd:idMaterialFile>28789</wmd:idMaterialFile>
+						<wmd:path>Архив/на диск (отчет)/Книга 1.pdf</wmd:path>
+					</wmd:materialFile>
+					<wmd:idDocType>336</wmd:idDocType>
+				</wmd:material>
+				<wmd:techObj>
+					<g:idSpatialObject>3941</g:idSpatialObject>
+					<g:caption>3</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>51.995211111111</g:lon>
+								<g:lat>53.192008333333</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1887</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3942</g:idSpatialObject>
+					<g:caption>338</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.001658333333</g:lon>
+								<g:lat>53.203419444444</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1888</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3943</g:idSpatialObject>
+					<g:caption>502</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.076080555556</g:lon>
+								<g:lat>53.149736111111</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1889</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3944</g:idSpatialObject>
+					<g:caption>528</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.119597222222</g:lon>
+								<g:lat>53.129905555556</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1890</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3945</g:idSpatialObject>
+					<g:caption>182</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.071583333333</g:lon>
+								<g:lat>53.152527777778</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1891</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3946</g:idSpatialObject>
+					<g:caption>427</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.045888888889</g:lon>
+								<g:lat>53.144897222222</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1892</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3947</g:idSpatialObject>
+					<g:caption>508</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.036208333333</g:lon>
+								<g:lat>53.173475</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1893</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3948</g:idSpatialObject>
+					<g:caption>605</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.084525</g:lon>
+								<g:lat>53.145780555556</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1894</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+				<wmd:techObj>
+					<g:idSpatialObject>3949</g:idSpatialObject>
+					<g:caption>213</g:caption>
+					<g:idGeomType>1</g:idGeomType>
+					<g:srid>7683</g:srid>
+					<g:parts>
+						<g:part>
+							<g:coord>
+								<g:lon>52.019011111111</g:lon>
+								<g:lat>53.160669444444</g:lat>
+							</g:coord>
+						</g:part>
+					</g:parts>
+					<wmd:idTechObj>1895</wmd:idTechObj>
+					<wmd:idTechObjType>3</wmd:idTechObjType>
+				</wmd:techObj>
+			</wmd:workMethodInfo>
+		</rep:workSite>
+		<rep:interpretedMaterial>
+			<wmd:idInterpretedMaterial>idm2284</wmd:idInterpretedMaterial>
+			<wmd:material>
+				<wmd:idMaterial>5796</wmd:idMaterial>
+				<wmd:title>Карты (схемы) фактического материала</wmd:title>
+				<wmd:format>.pdf</wmd:format>
+				<wmd:idMaterialType>2</wmd:idMaterialType>
+				<wmd:materialFile>
+					<wmd:idMaterialFile>28790</wmd:idMaterialFile>
+					<wmd:path>Архив/на диск (отчет)/Графические приложения/Приложение 2.pdf</wmd:path>
+				</wmd:materialFile>
+				<wmd:materialFile>
+					<wmd:idMaterialFile>28791</wmd:idMaterialFile>
+					<wmd:path>Архив/на диск (отчет)/Графические приложения/Приложение 3.pdf</wmd:path>
+				</wmd:materialFile>
+				<wmd:idScale>2</wmd:idScale>
+			</wmd:material>
+			<wmd:idWorkMethodInfo>id2221</wmd:idWorkMethodInfo>
+		</rep:interpretedMaterial>
+		<rep:interpretedMaterial>
+			<wmd:idInterpretedMaterial>idm2285</wmd:idInterpretedMaterial>
+			<wmd:material>
+				<wmd:idMaterial>5797</wmd:idMaterial>
+				<wmd:title>Скан-образы диаграмм</wmd:title>
+				<wmd:format>pdf</wmd:format>
+				<wmd:idMaterialType>2</wmd:idMaterialType>
+				<wmd:materialFile>
+					<wmd:idMaterialFile>28792</wmd:idMaterialFile>
+					<wmd:path>Архив/на диск (отчет)/Графические приложения/Приложение 1.pdf</wmd:path>
+				</wmd:materialFile>
+				<wmd:idScale>100</wmd:idScale>
+			</wmd:material>
+			<wmd:idWorkMethodInfo>id2222</wmd:idWorkMethodInfo>
+		</rep:interpretedMaterial>
+		<rep:interpretedMaterial>
+			<wmd:idInterpretedMaterial>idm2286</wmd:idInterpretedMaterial>
+			<wmd:material>
+				<wmd:idMaterial>5798</wmd:idMaterial>
+				<wmd:title>Результаты интерпритации ГИС</wmd:title>
+				<wmd:format>pdf</wmd:format>
+				<wmd:idMaterialType>2</wmd:idMaterialType>
+				<wmd:comments>стр. 263-289</wmd:comments>
+				<wmd:materialFile>
+					<wmd:idMaterialFile>28793</wmd:idMaterialFile>
+					<wmd:path>Архив/на диск (отчет)/Книга 1.pdf</wmd:path>
+				</wmd:materialFile>
+				<wmd:idScale>100</wmd:idScale>
+			</wmd:material>
+			<wmd:idWorkMethodInfo>id2222</wmd:idWorkMethodInfo>
+		</rep:interpretedMaterial>
+		<rep:interpretedMaterial>
+			<wmd:idInterpretedMaterial>idm2894</wmd:idInterpretedMaterial>
+			<wmd:material>
+				<wmd:idMaterial>7139</wmd:idMaterial>
+				<wmd:title>Гидрогеологическая карта с планом подсчёта запасов технических подземных вод</wmd:title>
+				<wmd:format>.pdf</wmd:format>
+				<wmd:idMaterialType>2</wmd:idMaterialType>
+				<wmd:materialFile>
+					<wmd:idMaterialFile>32707</wmd:idMaterialFile>
+					<wmd:path>Архив/на диск (отчет)/Графические приложения/Приложение 3.pdf</wmd:path>
+				</wmd:materialFile>
+				<wmd:idScale>4</wmd:idScale>
+			</wmd:material>
+			<wmd:idWorkMethodInfo>id2221</wmd:idWorkMethodInfo>
+		</rep:interpretedMaterial>
+		<rep:idStamp>1</rep:idStamp>
+		<rep:rawDataNotRequired>0</rep:rawDataNotRequired>
+		<rep:infArraysNotRequired>0</rep:infArraysNotRequired>
+	</report>
+	<explorationNotRequired>0</explorationNotRequired>
+	<explorationData>
+		<e:idExplorationData>585</e:idExplorationData>
+		<e:idMethodIndex>188</e:idMethodIndex>
+		<e:idScale>4</e:idScale>
+		<e:square>48.75</e:square>
+		<e:spatialObjects>
+			<g:spatialObject>
+				<g:idSpatialObject>3950</g:idSpatialObject>
+				<g:caption>участок Неклюдовский</g:caption>
+				<g:idGeomType>3</g:idGeomType>
+				<g:srid>7683</g:srid>
+				<g:parts>
+					<g:part>
+						<g:coord>
+							<g:lon>51.995</g:lon>
+							<g:lat>53.220230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.018544444444</g:lon>
+							<g:lat>53.191897222222</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.045213888889</g:lon>
+							<g:lat>53.180230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.050213888889</g:lon>
+							<g:lat>53.168563888889</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.041880555556</g:lon>
+							<g:lat>53.163563888889</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.045213888889</g:lon>
+							<g:lat>53.156897222222</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.078547222222</g:lon>
+							<g:lat>53.155230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.110216666667</g:lon>
+							<g:lat>53.140230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.121883333333</g:lon>
+							<g:lat>53.145230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.14355</g:lon>
+							<g:lat>53.133563888889</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.15355</g:lon>
+							<g:lat>53.125230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.146886111111</g:lon>
+							<g:lat>53.105230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.110216666667</g:lon>
+							<g:lat>53.115230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.096883333333</g:lon>
+							<g:lat>53.126897222222</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.048547222222</g:lon>
+							<g:lat>53.135230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.045213888889</g:lon>
+							<g:lat>53.140230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.028547222222</g:lon>
+							<g:lat>53.153563888889</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.011880555556</g:lon>
+							<g:lat>53.160230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.003547222222</g:lon>
+							<g:lat>53.158563888889</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>51.976877777778</g:lon>
+							<g:lat>53.161894444444</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>51.955211111111</g:lon>
+							<g:lat>53.166894444444</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>51.951877777778</g:lon>
+							<g:lat>53.183561111111</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>51.963544444444</g:lon>
+							<g:lat>53.186897222222</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>51.968541666667</g:lon>
+							<g:lat>53.211897222222</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>51.995</g:lon>
+							<g:lat>53.220230555556</g:lat>
+						</g:coord>
+					</g:part>
+				</g:parts>
+			</g:spatialObject>
+		</e:spatialObjects>
+		<e:idWorkMethodInfo>id2221</e:idWorkMethodInfo>
+		<e:cameralMethodology>Камеральные работы включали в себя полевую и камеральную обработку собранных фактических данных, составление геологических и гидрогеологических карт, геолого-литологических профилей, геолого-технических разрезов скважин, ряда таблиц и графиков, текстовых приложений.&#13;
+В ходе работы проведен комплексный анализ и увязка между собой различных архивных и фондовых графических материалов, полученных при проведении в разное время геолого-гидрогеологических и геофизических исследований в районе исследования.&#13;
+&#13;
+</e:cameralMethodology>
+		<e:idInterpretedMaterial>idm2894</e:idInterpretedMaterial>
+	</explorationData>
+	<explorationData>
+		<e:idExplorationData>586</e:idExplorationData>
+		<e:idMethodIndex>207</e:idMethodIndex>
+		<e:idScale>100</e:idScale>
+		<e:square>48.75</e:square>
+		<e:spatialObjects>
+			<g:spatialObject>
+				<g:idSpatialObject>3951</g:idSpatialObject>
+				<g:caption>участок Неклюдовский</g:caption>
+				<g:idGeomType>3</g:idGeomType>
+				<g:srid>7683</g:srid>
+				<g:parts>
+					<g:part>
+						<g:coord>
+							<g:lon>51.995</g:lon>
+							<g:lat>53.220230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.018544444444</g:lon>
+							<g:lat>53.191897222222</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.045213888889</g:lon>
+							<g:lat>53.180230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.050213888889</g:lon>
+							<g:lat>53.168563888889</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.041880555556</g:lon>
+							<g:lat>53.163563888889</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.045213888889</g:lon>
+							<g:lat>53.156897222222</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.078547222222</g:lon>
+							<g:lat>53.155230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.110216666667</g:lon>
+							<g:lat>53.140230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.121883333333</g:lon>
+							<g:lat>53.145230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.14355</g:lon>
+							<g:lat>53.133563888889</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.15355</g:lon>
+							<g:lat>53.125230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.146886111111</g:lon>
+							<g:lat>53.105230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.110216666667</g:lon>
+							<g:lat>53.115230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.096883333333</g:lon>
+							<g:lat>53.126897222222</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.048547222222</g:lon>
+							<g:lat>53.135230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.045213888889</g:lon>
+							<g:lat>53.140230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.028547222222</g:lon>
+							<g:lat>53.153563888889</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.011880555556</g:lon>
+							<g:lat>53.160230555556</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>52.003547222222</g:lon>
+							<g:lat>53.158563888889</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>51.976877777778</g:lon>
+							<g:lat>53.161894444444</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>51.955211111111</g:lon>
+							<g:lat>53.166894444444</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>51.951877777778</g:lon>
+							<g:lat>53.183561111111</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>51.963544444444</g:lon>
+							<g:lat>53.186897222222</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>51.968541666667</g:lon>
+							<g:lat>53.211897222222</g:lat>
+						</g:coord>
+						<g:coord>
+							<g:lon>51.995</g:lon>
+							<g:lat>53.220230555556</g:lat>
+						</g:coord>
+					</g:part>
+				</g:parts>
+			</g:spatialObject>
+		</e:spatialObjects>
+		<e:idWorkMethodInfo>id2222</e:idWorkMethodInfo>
+		<e:cameralMethodology>Камеральные работы включали в себя полевую и камеральную обработку собранных фактических данных, составление геологических и гидрогеологических карт, геолого-литологических профилей, геолого-технических разрезов скважин, ряда таблиц и графиков, текстовых приложений.&#13;
+В ходе работы проведен комплексный анализ и увязка между собой различных архивных и фондовых графических материалов, полученных при проведении в разное время геолого-гидрогеологических и геофизических исследований в районе исследования.</e:cameralMethodology>
+		<e:idInterpretedMaterial>idm2286</e:idInterpretedMaterial>
+		<e:idInterpretedMaterial>idm2285</e:idInterpretedMaterial>
+	</explorationData>
+	<gkmNotRequired>0</gkmNotRequired>
+	<gkmPassport>
+		<gkm:idGkm>268</gkm:idGkm>
+		<gkm:idIndex>10</gkm:idIndex>
+		<gkm:gkmMineral>
+			<gkm:idGkmMineral>307</gkm:idGkmMineral>
+			<gkm:mineral>Воды технические</gkm:mineral>
+			<gkm:idMineral>30302</gkm:idMineral>
+			<gkm:idMineralType>1</gkm:idMineralType>
+		</gkm:gkmMineral>
+		<gkm:gkmFile>
+			<gkm:idGkmFile>469</gkm:idGkmFile>
+			<gkm:path>Архив/паспорт месторождения/Паспорт Неклюдовское.xls</gkm:path>
+		</gkm:gkmFile>
+		<gkm:gkmFile>
+			<gkm:idGkmFile>470</gkm:idGkmFile>
+			<gkm:path>Архив/паспорт месторождения/Приложение 1 к паспорту.jpg</gkm:path>
+		</gkm:gkmFile>
+		<gkm:gkmFile>
+			<gkm:idGkmFile>471</gkm:idGkmFile>
+			<gkm:path>Архив/паспорт месторождения/Приложение 2 к паспорту.jpg</gkm:path>
+		</gkm:gkmFile>
+		<gkm:gkmFile>
+			<gkm:idGkmFile>472</gkm:idGkmFile>
+			<gkm:path>Архив/паспорт месторождения/Приложение 3 к паспорту.jpg</gkm:path>
+		</gkm:gkmFile>
+		<gkm:gkmFile>
+			<gkm:idGkmFile>473</gkm:idGkmFile>
+			<gkm:path>Архив/паспорт месторождения/Схема расположения участка недр.JPG</gkm:path>
+		</gkm:gkmFile>
+	</gkmPassport>
+	<fileStructure>
+		<uploaded>
+			<directoryFileIndex>
+				<fileIndexItem>
+					<name>на диск (отчет)</name>
+					<isFolder/>
+					<fileIndexItem>
+						<name>Ведомость МНЗ .pdf</name>
+						<hash>cebc67da35e69b68e8c95c7111a89e2a</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Выкопировка.pdf</name>
+						<hash>8447019d9c9fb0509e0ce3bb6406f085</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Графические приложения</name>
+						<isFolder/>
+						<fileIndexItem>
+							<name>Опись к папке.pdf</name>
+							<hash>cb8d90149802e3edbb3da8aab990d5c4</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Приложение 1.pdf</name>
+							<hash>f6e49fb1b6417e9b2f6402bdef7a0621</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Приложение 2.pdf</name>
+							<hash>9631ab1372d6ee5591928cde02c10b2c</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Приложение 3.pdf</name>
+							<hash>2a66cdbfac4f2265c8ca07499b60dc32</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Приложение 4.pdf</name>
+							<hash>c9e7a0233fef658c5b27a31381752931</hash>
+						</fileIndexItem>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>карточка изученности_СК-2011.xls</name>
+						<hash>4b1bc2c43d829579a7f0aed5b4d35c0c</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Книга 1.pdf</name>
+						<hash>95bea524d5d2506c6a418b9630fd6eec</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Учетные карточки.doc</name>
+						<hash>513857e57fa88d3b6d971f5ce97f8ffa</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Этикетка на  диск.doc</name>
+						<hash>14ba3b7dff88d8b284522ed8c6ea4d0a</hash>
+					</fileIndexItem>
+				</fileIndexItem>
+				<fileIndexItem>
+					<name>на диск (первичка)</name>
+					<isFolder/>
+					<fileIndexItem>
+						<name>Ведомость МНЗ.pdf</name>
+						<hash>cc10bd393142a81d99fec49d1ff7f6ed</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>первичные материалы</name>
+						<isFolder/>
+						<fileIndexItem>
+							<name>Акт обследования водозабора.pdf</name>
+							<hash>2d9616731304b9ac6dfab2e573daee2c</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Паспорт скважины №182.pdf</name>
+							<hash>da3723932c7daea40fbac212925dd4ff</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Паспорт скважины №213.pdf</name>
+							<hash>798ca0a9151ec14525d4d4d7b056f4d7</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Паспорт скважины №338.pdf</name>
+							<hash>e029f7d0426ad0df4d58ca8efb4d6c48</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Паспорт скважины №3.pdf</name>
+							<hash>c0f0f5a6bfc287c2c36a5595e5202aee</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Паспорт скважины №427.pdf</name>
+							<hash>6668d833eb3f9836dc557fd97217f7e8</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Паспорт скважины №502.pdf</name>
+							<hash>9fbfe9679e3b283065b60c331f16d567</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Паспорт скважины №508.pdf</name>
+							<hash>e4d08da69eab73170304f3516db909ac</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Паспорт скважины №528.pdf</name>
+							<hash>3cc793e6e411db2976e2ded9e2fdb60d</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Паспорт скважины №605.pdf</name>
+							<hash>059b48b1d0916be214120568f2b18e6b</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Результаты испытаний.pdf</name>
+							<hash>5c46d52655f533703a748a40ea99eab0</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Содержание папки.pdf</name>
+							<hash>072b4374ca2241950f3e5ea71253d4d3</hash>
+						</fileIndexItem>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Пояснительная записка к первичной геологической информации о недрах.xlsx</name>
+						<hash>ea78ef1c09c405a474194b35918ba55b</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Этикетка на  диск.doc</name>
+						<hash>6a8c5cb2cf2cf6afea009bfe01f39c7b</hash>
+					</fileIndexItem>
+				</fileIndexItem>
+				<fileIndexItem>
+					<name>паспорт месторождения</name>
+					<isFolder/>
+					<fileIndexItem>
+						<name>Ведомость МНЗ к паспорту.pdf</name>
+						<hash>f2b7385df46dbe60a64f8f0d1cd69c7e</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Гидрогеологическая карта и условные обозначения.jpg</name>
+						<hash>61a1383c12c4a69a9892f1876c198f59</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Гидрогеологический разрез.jpg</name>
+						<hash>5a1908eb01a3173eb7ffa52f9c1ceafb</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Паспорт Неклюдовское.xls</name>
+						<hash>5dd641f28ccb86f10bc13f60a8ae338a</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Схема расположения участка недр.JPG</name>
+						<hash>90822c79b48a30869ece0c496beb7f1d</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Условные обозначения к г.г разрезу.jpg</name>
+						<hash>bb1b7cf196a8ff86fce290f3c7fd739e</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Учетные карточки.doc</name>
+						<hash>513857e57fa88d3b6d971f5ce97f8ffa</hash>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Этикетка на паспорт месторождения.doc</name>
+						<hash>32e6f3b77c5a481d427ba57a9258baf7</hash>
+					</fileIndexItem>
+				</fileIndexItem>
+			</directoryFileIndex>
+			<isUpdated>1</isUpdated>
+		</uploaded>
+	</fileStructure>
+</supply>

@@ -1,0 +1,3 @@
+FROM tixml2pdf
+COPY ./project /project
+CMD python3 /project/service.py

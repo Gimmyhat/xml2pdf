@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supply xmlns="urn://efgi.ru/XSD/efgiSupply" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rep="urn://efgi.ru/XSD/efgiReport" xmlns:g="urn://efgi.ru/XSD/efgiGlobals" xmlns:wmd="urn://efgi.ru/XSD/efgiWorkMaterialDescription" xmlns:e="urn://efgi.ru/XSD/efgiExploration" xmlns:gkm="urn://efgi.ru/XSD/efgiGkmPassport">
+	<version>8.0</version>
+	<idSupply>-158</idSupply>
+	<description>ТЕСТОВЫЙ КОМПЛЕКТ - ИСПРАВЛЕННОЕ НАЗВАНИЕ</description>
+	<contactData>
+		<g:name>Александр</g:name>
+		<g:patronymic>Сергеевич</g:patronymic>
+		<g:surname>Попов</g:surname>
+		<g:position>Начальник отдела создания и развития ФГИС ЕФГИ</g:position>
+		<g:email>as-popov@yandex.ru</g:email>
+		<g:phone>+7(916)1220348</g:phone>
+		<g:orgName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ГЕОЛОГИЧЕСКИЙ ФОНД"</g:orgName>
+		<g:orgAddress>123007 г Москва, р-н Хорошевский, ул Магистральная 3-я 38</g:orgAddress>
+		<g:ogrn>1167746123225</g:ogrn>
+	</contactData>
+	<tfgiData>
+		<idTfgi>36</idTfgi>
+		<reportNumber>245754</reportNumber>
+		<explorationCardNumber>F245854</explorationCardNumber>
+	</tfgiData>
+	<report>
+		<rep:customerOrgName>ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ "РОССИЙСКИЙ ФЕДЕРАЛЬНЫЙ ГЕОЛОГИЧЕСКИЙ ФОНД"</rep:customerOrgName>
+		<rep:orgName>ООО "Ромашка"</rep:orgName>
+		<rep:authors>Иванов И.И.</rep:authors>
+		<rep:licInfoList>
+			<g:licInfo>
+				<g:idLicInfo>20</g:idLicInfo>
+				<g:fullNumber>ЯКУ12345НП</g:fullNumber>
+				<g:dateReg>2020-06-02</g:dateReg>
+			</g:licInfo>
+		</rep:licInfoList>
+		<rep:stateContract>
+			<rep:idStateContract>1</rep:idStateContract>
+			<rep:number>322-223</rep:number>
+			<rep:date>2020-01-01</rep:date>
+		</rep:stateContract>
+		<rep:year>2020</rep:year>
+		<rep:idReportType>1</rep:idReportType>
+		<rep:idSubsoilUseType>2</rep:idSubsoilUseType>
+		<rep:purpose>Проверить работу ЕФГИ</rep:purpose>
+		<rep:idFinancingSource>1</rep:idFinancingSource>
+		<rep:cost>1000000</rep:cost>
+		<rep:keywords>ЕФГИ</rep:keywords>
+		<rep:abstract>РЕФЕРАТ</rep:abstract>
+		<rep:structure>
+			<rep:technicalSpecification>
+				<g:idFileIndex>758</g:idFileIndex>
+				<g:fileName>Архив/DVD_Отчёт/Книга 1.pdf</g:fileName>
+				<g:pageNum>12</g:pageNum>
+			</rep:technicalSpecification>
+			<rep:title>
+				<g:idFileIndex>759</g:idFileIndex>
+				<g:fileName>Архив/DVD_Отчёт/Книга 1.pdf</g:fileName>
+			</rep:title>
+			<rep:abstract>
+				<g:idFileIndex>760</g:idFileIndex>
+				<g:fileName>Архив/DVD_Отчёт/Книга 1.pdf</g:fileName>
+			</rep:abstract>
+			<rep:contents>
+				<g:idFileIndex>761</g:idFileIndex>
+				<g:fileName>Архив/DVD_Отчёт/Книга 1.pdf</g:fileName>
+			</rep:contents>
+			<rep:reportText>
+				<rep:introduction>
+					<g:idFileIndex>767</g:idFileIndex>
+					<g:fileName>Архив/DVD_Отчёт/Книга 1.pdf</g:fileName>
+				</rep:introduction>
+				<rep:mainPart>
+					<g:idFileIndex>768</g:idFileIndex>
+					<g:fileName>Архив/DVD_Отчёт/Книга 1.pdf</g:fileName>
+				</rep:mainPart>
+				<rep:conclusion>
+					<g:idFileIndex>769</g:idFileIndex>
+					<g:fileName>Архив/DVD_Отчёт/Книга 1.pdf</g:fileName>
+				</rep:conclusion>
+			</rep:reportText>
+			<rep:bibliography>
+				<g:idFileIndex>770</g:idFileIndex>
+				<g:fileName>Архив/DVD_Отчёт/Книга 1.pdf</g:fileName>
+			</rep:bibliography>
+			<rep:metrologicalExpertise>
+				<g:idFileIndex>771</g:idFileIndex>
+				<g:fileName>Архив/DVD_Отчёт/Книга 1.pdf</g:fileName>
+			</rep:metrologicalExpertise>
+			<rep:review>
+				<g:idFileIndex>774</g:idFileIndex>
+				<g:fileName>Архив/DVD_Отчёт/Книга 1.pdf</g:fileName>
+				<g:pageNum>589</g:pageNum>
+			</rep:review>
+			<rep:protocol>
+				<g:idFileIndex>775</g:idFileIndex>
+				<g:fileName>Архив/DVD_Отчёт/Книга 1.pdf</g:fileName>
+				<g:pageNum>590</g:pageNum>
+			</rep:protocol>
+			<rep:costStatement>
+				<g:idFileIndex>773</g:idFileIndex>
+				<g:fileName>Архив/DVD_Отчёт/Книга 1.pdf</g:fileName>
+			</rep:costStatement>
+			<rep:graphAnnex>
+				<g:idFileIndex>776</g:idFileIndex>
+				<g:fileName>Архив/DVD_Отчёт/Графические приложения</g:fileName>
+			</rep:graphAnnex>
+		</rep:structure>
+		<rep:calculationReserves>0</rep:calculationReserves>
+		<rep:calculationResources>0</rep:calculationResources>
+		<rep:calculationStateExpertise>0</rep:calculationStateExpertise>
+		<rep:workSite>
+			<g:idSpatialObject>251</g:idSpatialObject>
+			<g:caption>Шенуровское месторождение</g:caption>
+			<g:idGeomType>3</g:idGeomType>
+			<g:srid>4326</g:srid>
+			<g:parts>
+				<g:part>
+					<g:coord>
+						<g:lon>37.690555555556</g:lon>
+						<g:lat>53.879166666667</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>37.714722222222</g:lon>
+						<g:lat>53.879166666667</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>37.714722222222</g:lon>
+						<g:lat>53.855555555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>37.690555555556</g:lon>
+						<g:lat>53.855555555556</g:lat>
+					</g:coord>
+					<g:coord>
+						<g:lon>37.690555555556</g:lon>
+						<g:lat>53.879166666667</g:lat>
+					</g:coord>
+				</g:part>
+			</g:parts>
+			<wmd:idWorkSite>61</wmd:idWorkSite>
+			<wmd:workMethodInfo>
+				<wmd:idWorkMethodInfo>id121</wmd:idWorkMethodInfo>
+				<wmd:idSubsoilUseType>2</wmd:idSubsoilUseType>
+				<wmd:idMethod>1472</wmd:idMethod>
+				<wmd:idScale>7</wmd:idScale>
+				<wmd:workVolume>
+					<wmd:idWorkVolume>173</wmd:idWorkVolume>
+					<wmd:volume>17</wmd:volume>
+					<wmd:idUnit>7</wmd:idUnit>
+				</wmd:workVolume>
+				<wmd:material>
+					<wmd:idMaterial>302</wmd:idMaterial>
+					<wmd:title>Дело скважины</wmd:title>
+					<wmd:format>pdf</wmd:format>
+					<wmd:idMaterialType>1</wmd:idMaterialType>
+					<wmd:materialFile>
+						<wmd:idMaterialFile>341</wmd:idMaterialFile>
+						<wmd:path>Архив/DVD_Первичная документация/Каротаж</wmd:path>
+					</wmd:materialFile>
+					<wmd:idDocType>242</wmd:idDocType>
+				</wmd:material>
+			</wmd:workMethodInfo>
+		</rep:workSite>
+		<rep:idUseConditions>2</rep:idUseConditions>
+	</report>
+	<fileStructure>
+		<uploaded>
+			<directoryFileIndex>
+				<fileIndexItem>
+					<name>DVD_Отчёт</name>
+					<isFolder/>
+					<fileIndexItem>
+						<name>Графические приложения</name>
+						<isFolder/>
+						<fileIndexItem>
+							<name>Карта 1.jpg</name>
+							<hash>deec734df39eb9909fd5a80421de3d79</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Карта 2.jpg</name>
+							<hash>fc59b479942d4f2cec119c122fc2f0ae</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>Карта 3.jpg</name>
+							<hash>cce84c9a1a8c6b92286fe727f43d8ca4</hash>
+						</fileIndexItem>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Книга 1.pdf</name>
+						<hash>d551bd93dd2bc4e0b8081da5db6e900d</hash>
+					</fileIndexItem>
+				</fileIndexItem>
+				<fileIndexItem>
+					<name>DVD_Первичная документация</name>
+					<isFolder/>
+					<fileIndexItem>
+						<name>Журнал 1</name>
+						<isFolder/>
+						<fileIndexItem>
+							<name>1.jpg</name>
+							<hash>ed5273e96b7d1696324417ab18bbc8a7</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>2.jpg</name>
+							<hash>924024545a75e8f2a89be2698de3f3cc</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>3.jpg</name>
+							<hash>346229fc4b3bf768b8f1476443d3a4df</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>4.jpg</name>
+							<hash>914aee1e383d473cd273e1fc253cf0b0</hash>
+						</fileIndexItem>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Каротаж</name>
+						<isFolder/>
+						<fileIndexItem>
+							<name>01_Ggkp.las</name>
+							<hash>43e5d9029d9d7acf0251c2d9d2550d65</hash>
+						</fileIndexItem>
+						<fileIndexItem>
+							<name>01_Gz2.las</name>
+							<hash>012125a9482a6625de2ec110de99a4fb</hash>
+						</fileIndexItem>
+					</fileIndexItem>
+					<fileIndexItem>
+						<name>Сейсмика</name>
+						<isFolder/>
+						<fileIndexItem>
+							<name>JANGI_kontr_00.SGY</name>
+							<hash>83aa5cdc9709be42c6f11052e6c9937e</hash>
+						</fileIndexItem>
+					</fileIndexItem>
+				</fileIndexItem>
+			</directoryFileIndex>
+		</uploaded>
+		<package>
+			<idPackage>1</idPackage>
+			<name>Досыл_02.06.2020_Первичные данные</name>
+			<shortName>Первичные данные</shortName>
+			<createdAt>1591105510</createdAt>
+			<directoryFileIndex>
+				<fileIndexItem>
+					<name>Сейсмика</name>
+					<isFolder/>
+					<fileIndexItem>
+						<name>JANGI_kontr_00.SGY</name>
+						<hash>83aa5cdc9709be42c6f11052e6c9937e</hash>
+					</fileIndexItem>
+				</fileIndexItem>
+			</directoryFileIndex>
+		</package>
+	</fileStructure>
+	<rgfData>
+		<reportNumber>84572</reportNumber>
+		<explorationCardNumber>657485</explorationCardNumber>
+	</rgfData>
+</supply>
