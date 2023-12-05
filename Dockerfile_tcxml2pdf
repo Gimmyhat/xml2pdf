@@ -1,3 +1,3 @@
-FROM tixml2pdf
+FROM gimmyhat/tixml2pdf:latest
 COPY ./project /project
 CMD python3 /project/service.py

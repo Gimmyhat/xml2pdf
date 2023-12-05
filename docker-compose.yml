@@ -1,10 +1,7 @@
 version: '3'
 services:
   tixml2pdf:
-    build:
-      image: gimmyhat/tixml2pdf:latest
-      context: ./base
-      dockerfile: Dockerfile_tixml2pdf
+    image: gimmyhat/tixml2pdf:latest
 
   tcxml2pdf:
     build:
